@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60" width="240" height="60" aria-label="0xm4ngli-video-player logo">
+  <rect x="0" y="10" width="40" height="40" rx="8" fill="#7c3aed"/>
+  <polygon points="16,18 16,42 34,30" fill="white"/>
+  <text x="50" y="36" font-family="system-ui, sans-serif" font-weight="700" font-size="18" fill="#0f0f0f">0xm4ngli</text>
+  <text x="50" y="52" font-family="system-ui, sans-serif" font-weight="400" font-size="12" fill="#606060">video-player</text>
+</svg>
