@@ -33,4 +33,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
+## Licenses
+
+This project is licensed under the [MIT License](./LICENSE).
+
+Dependencies use a variety of open-source licenses, primarily:
+- MIT (318 packages)
+- ISC (32 packages)
+- Apache-2.0 (24 packages)
+- BSD-2-Clause / BSD-3-Clause (11 packages)
+- MPL-2.0 (3 packages)
+- LGPL-3.0-or-later, CC0-1.0, and others
+
+Full dependency license details can be generated with `license-checker`.
+
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
